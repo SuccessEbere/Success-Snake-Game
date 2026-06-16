@@ -9,7 +9,7 @@ The game allows a snake to move around the screen, eat food to grow longer, keep
 <ul>
   <li> 
     <h4>Variables</h4>
-    <p>An example of a variable in the Snake game is WIDTH = 600 and HEIGHT = 400. These variables store the width and height of the game window. Variables allow data to be stored and reused throughout the program, making the code more organized, flexible, and easier to modify. If the game window size needs to be changed, only the variable values need to be updated rather than multiple lines of code.</p>
+    <p>An example of a variable in the Snake game is WIDTH = 600 and HEIGHT = 400. Variables store the width and height of the game window. Variables allow data to be stored and reused throughout the program, making the code more organized, flexible, and easier to modify. If the game window size needs to be changed, only the variable values need to be updated rather than multiple lines of code.</p>
     
 ```python
 WIDTH = 600
