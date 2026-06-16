@@ -1,6 +1,9 @@
 # Success-Snake-Game
-A simple snake game built with Python and Pygame.
+This is a simple Snake game built with Python and Pygame.
 
-The snake is controlled usimg the arrow keys while avoiding collisions with any part of the snake.
-The game ends when the snake bites itself.
+It demonstrates several fundamental programming concepts. It introduces variables, data types, loops, conditional statements, lists, functions, keyboard input handling, collision detection, object manipulation, and basic game development principles. 
+
+The game allows a snake to move around the screen, eat food to grow longer, keep track of a score, detect collisions with itself, and display a game-over screen. Through this project, a beginner can learn how Python programs are structured and how different programming concepts work together to create an interactive application.
+
+
 
