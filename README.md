@@ -19,7 +19,7 @@ HEIGHT = 400
   
   <li> 
     <h4>Lists</h4>
-    <p>An example of a list in the Snake game is snake_list = []. This list is used to store the positions of the snake's body segments as it moves around the screen. Lists allow multiple related pieces of data to be stored in a single variable and can be updated during program execution. In this game, new positions are added to the list as the snake moves, while older positions are removed to create the effect of movement. As the snake eats food, the list grows longer, allowing the snake's body to increase in length. Using a list makes it easier to organize, manage, and update the snake's body throughout the game.</p>
+    <p>An example of a list in the Snake game is snake_list = []. This list keeps track of the snake's body positions as it moves. Lists can store multiple values in one variable and can be changed during program execution. In this game, the list is updated continuously to show the snake's movement and growth whenever it eats food. Using a list helps organize and manage the snake's body efficiently.</p>
     
 ```python
 snake_list = []
