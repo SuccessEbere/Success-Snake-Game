@@ -79,5 +79,6 @@ import pygame
   
 </ul>
 
+<i>Overall, the Snake game serves as a practical example of how core Python concepts such as variables, data types, lists, functions, loops, conditional statements, and modules work together to build a functional and interactive application.</i>
 
 
