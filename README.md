@@ -38,6 +38,7 @@ append()
   </li>
   
   <li>
+    
 ```python
     x = WIDTH // 2
     snake_list = []
