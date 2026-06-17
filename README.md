@@ -54,7 +54,16 @@ append()
 ```python
 while running:
 ```
-  <p>The game relies on a while loop to keep running until the player quits or the game ends. This loop continuously updates the snake's position, checks for user input, detects collisions, and redraws the game screen. Without this loop, the game would execute only once and immediately close.</p>
+  <p>Loops are programming structures that allow a block of code to be executed repeatedly until a specified condition is met. They are useful for automating repetitive tasks and reducing code duplication. In this Snake game, a while loop is used to keep the game running continuously, updating the game state, processing user input, and refreshing the display until the player exits the game.</p>
+  </li>
+
+  <li>
+    <h4>Conditional Statements</h4>
+
+```python
+if x == food_x and y == food_y: snake_length += 1
+```
+<p>Conditional statements enable a program to make decisions by executing different actions based on whether a condition is true or false. They are fundamental for controlling program flow and implementing logic. In this game, conditional statements are used to detect events such as the snake eating food, colliding with itself, reaching the screen boundaries, or responding to keyboard input.</p>    
   </li>
   
 </ul>
