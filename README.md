@@ -26,7 +26,17 @@ snake_list = []
 ```
   </li>
   
-  <li></li>
+  <li>
+     <h4>Function</h4>
+    <p>An example of a function in the Snake game is len(snake_list). Functions are reusable blocks of code that perform specific tasks. The len() function is used to determine the number of items in a list. In this game, it helps track the length of the snake by checking how many body segments are stored in snake_list. Another exammple is append() which adds a new snake segment to snake Functions make programs more efficient by reducing repetition and allowing tasks to be performed with a single command.</p>
+    
+```python
+len(snake_list)
+
+append()
+Adds a new snake segment to snake_list.
+```
+  </li>
   <li></li>
   
 </ul>
