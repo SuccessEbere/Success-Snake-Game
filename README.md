@@ -38,7 +38,7 @@ append()
   </li>
   
   <li>
-  <h4>Data Types</h4> 
+    <h4>Data Types</h4> 
     
 ```python
     x = WIDTH // 2
@@ -46,6 +46,15 @@ append()
     running = True
 ```
    <p>Different data types are used throughout the game. Integers store numerical values such as positions and dimensions, lists keep track of the snake's body segments, and Boolean values control game states such as whether the game is running or has ended.</p>
+  </li>
+
+  <li>
+    <h4>Loops</h4>
+    
+```python
+while running:
+```
+  <p>The game relies on a while loop to keep running until the player quits or the game ends. This loop continuously updates the snake's position, checks for user input, detects collisions, and redraws the game screen. Without this loop, the game would execute only once and immediately close.</p>
   </li>
   
 </ul>
