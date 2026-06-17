@@ -34,7 +34,6 @@ snake_list = []
 len(snake_list)
 
 append()
-Adds a new snake segment to snake_list.
 ```
   </li>
   <li></li>
