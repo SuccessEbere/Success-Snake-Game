@@ -63,7 +63,17 @@ while running:
 ```python
 if x == food_x and y == food_y: snake_length += 1
 ```
-<p>Conditional statements enable a program to make decisions by executing different actions based on whether a condition is true or false. They are fundamental for controlling program flow and implementing logic. In this game, conditional statements are used to detect events such as the snake eating food, colliding with itself, reaching the screen boundaries, or responding to keyboard input.</p>    
+  <p>Conditional statements enable a program to make decisions by executing different actions based on whether a condition is true or false. They are fundamental for controlling program flow and implementing logic. In this game, the statement checks if the snake has reached the food's position. If the condition is true, the snake's length increases by one, allowing it to grow after eating the food.</p>    
+  </li>
+
+  <li>
+    <h4>Modules</h4>
+
+```python
+import random
+import pygame
+```
+  <p>Modules are collections of pre-written code that provide additional functionality to a program. They allow developers to reuse existing tools and features instead of creating everything from scratch. In this Snake game, the random module is used to generate food positions at random locations, while the pygame module provides the functions and tools needed to create the game window, handle user input, draw graphics, display text, and control the game's execution.</p>
   </li>
   
 </ul>
