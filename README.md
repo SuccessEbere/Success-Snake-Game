@@ -27,26 +27,26 @@ snake_list = []
   </li>
   
   <li>
-     <h4>Function</h4>
-    <p>An example of a function in the Snake game is len(snake_list). Functions are reusable blocks of code that perform specific tasks. The len() function is used to determine the number of items in a list. In this game, it helps track the length of the snake by checking how many body segments are stored in snake_list. Another exammple is append() which adds a new snake segment to snake Functions make programs more efficient by reducing repetition and allowing tasks to be performed with a single command.</p>
+    <h4>Functions</h4>
     
 ```python
 len(snake_list)
 
 append()
 ```
+     
+   <p>An example of a function in the Snake game is len(snake_list). Functions are reusable blocks of code that perform specific tasks. The len() function is used to determine the number of items in a list. In this game, it helps track the length of the snake by checking how many body segments are stored in snake_list. Another exammple is append() which adds a new snake segment to snake Functions make programs more efficient by reducing repetition and allowing tasks to be performed with a single command.</p>
   </li>
   
   <li>
+  <h4>Data Types</h4> 
     
 ```python
     x = WIDTH // 2
     snake_list = []
     running = True
 ```
-   <h4>Data Types</h4> 
    <p>Different data types are used throughout the game. Integers store numerical values such as positions and dimensions, lists keep track of the snake's body segments, and Boolean values control game states such as whether the game is running or has ended.</p>
-
   </li>
   
 </ul>
