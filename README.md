@@ -61,7 +61,8 @@ while running:
     <h4>Conditional Statements</h4>
 
 ```python
-if x == food_x and y == food_y: snake_length += 1
+if x == food_x and y == food_y:
+ snake_length += 1
 ```
   <p>Conditional statements enable a program to make decisions by executing different actions based on whether a condition is true or false. They are fundamental for controlling program flow and implementing logic. In this game, the statement checks if the snake has reached the food's position. If the condition is true, the snake's length increases by one, allowing it to grow after eating the food.</p>    
   </li>
