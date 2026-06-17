@@ -36,7 +36,17 @@ len(snake_list)
 append()
 ```
   </li>
-  <li></li>
+  
+  <li>
+```python
+    x = WIDTH // 2
+    snake_list = []
+    running = True
+```
+   <h4>Data Types</h4> 
+   <p>Different data types are used throughout the game. Integers store numerical values such as positions and dimensions, lists keep track of the snake's body segments, and Boolean values control game states such as whether the game is running or has ended.</p>
+
+  </li>
   
 </ul>
 
