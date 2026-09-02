@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/397abc7a-e296-46cb-a959-2f72a51858c4
+
+
+
 # Success-Snake-Game
 This is a simple Snake game built with Python and Pygame.
 
@@ -80,5 +86,14 @@ import pygame
 </ul>
 
 <i>Overall, the Snake game serves as a practical example of how core Python concepts such as variables, data types, lists, functions, loops, conditional statements, and modules work together to build a functional and interactive application.</i>
+
+<h4>Project Demo</h4>
+<p>An edited video showcasing the snake game in action</p>
+
+https://github.com/user-attachments/assets/2f07ed84-dc8e-499e-a952-baebc458183b
+
+
+
+
 
 
